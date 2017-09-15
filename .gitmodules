@@ -1,0 +1,3 @@
+[submodule "src/imageprocessing-labs"]
+	path = src/imageprocessing-labs
+	url = https://github.com/wellflat/imageprocessing-labs.git
